@@ -10,9 +10,9 @@
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "~4.16.1",
-    "express-jwt": "^6.0.0",
+    "express-jwt": "^8.2.0",
     "http-errors": "~1.6.3",
-    "jwks-rsa": "^1.8.0",
+    "jwks-rsa": "^3.0.0",
     "morgan": "~1.9.1",
     "pug": "^3.0.0"
   }
